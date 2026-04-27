@@ -49,7 +49,7 @@ export const ROOM_TYPES = [
     price: '₹7,500',
     description: 'Economical yet comfortable with premium amenities.',
     features: ['Individual lockers', 'Common study area', 'Housekeeping', '3-time meals'],
-    image: 'https://images.unsplash.com/photo-1555854816-802f188090e4?auto=format&fit=crop&q=80&w=800',
+    image: 'https://metrocityhostel.com/images/rooms/slider/booking-hostels-in-panjagutta.jpg',
     popular: false
   }
 ];
