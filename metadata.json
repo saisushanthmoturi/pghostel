@@ -1,0 +1,8 @@
+{
+  "name": "KVR Mens PG - Premium Urban Living",
+  "description": "A modern marketing website for KVR Mens PG showcasing premium amenities, room types, and easy enquiry options for students and professionals.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
