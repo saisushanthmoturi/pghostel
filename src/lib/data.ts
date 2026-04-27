@@ -40,7 +40,7 @@ export const ROOM_TYPES = [
     price: '₹9,500',
     description: 'Our most popular choice for friends and colleagues.',
     features: ['Twin beds', 'Shared wardrobe', 'High-speed Wi-Fi', 'Attached bathroom'],
-    image: '/src/public/Gemini_Generated_Image_9eycom9eycom9eyc.png',
+    image: 'https://t4.ftcdn.net/jpg/06/32/19/51/360_F_632195151_xTnjr4xGYG3oGyHiSWeCLLdWTKIVCpfY.jpg',
     popular: true
   },
   {
@@ -49,7 +49,7 @@ export const ROOM_TYPES = [
     price: '₹7,500',
     description: 'Economical yet comfortable with premium amenities.',
     features: ['Individual lockers', 'Common study area', 'Housekeeping', '3-time meals'],
-    image: '/src/public/Gemini_Generated_Image_8ehy4l8ehy4l8ehy.png',
+    image: 'https://images.unsplash.com/photo-1555854816-802f188090e4?auto=format&fit=crop&q=80&w=800',
     popular: false
   }
 ];
